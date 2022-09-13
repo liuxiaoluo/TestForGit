@@ -1,0 +1,4 @@
+[submodule "just-do-it"]
+	path = just-do-it
+	url = https://github.com/liuxiaoluo/just-do-it
+	branch = testsubmodule
